@@ -185,3 +185,4 @@ Open to backend work, full-stack products and infrastructure projects.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:1e3a5f,100:0b1320&height=100&section=footer" alt="footer" />
 
 </div>
+
